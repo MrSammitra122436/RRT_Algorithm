@@ -16,6 +16,14 @@ first we cteate a window of dimention 600 X 1000
 - Third check we reach near to goal if yes then find the reverse path to that goal and terminate generating and drawing random new node
 - show the path on the map
 
-![alt text](1.png)  ![alt text](2.png) ![alt text](3.png)
-![alt text](4.png)  ![alt text](5.png)
+![alt text](1.png) 
+-----------------------------------------
+![alt text](2.png)
+-----------------------------------------
+![alt text](3.png)
+-----------------------------------------
+![alt text](4.png)
+-----------------------------------------
+![alt text](5.png)
+
 
